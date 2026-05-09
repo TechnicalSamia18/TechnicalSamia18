@@ -35,7 +35,6 @@ I am an aspiring Computer Science professional (Class of 2027) with a focus on b
 
 ### 📊 My GitHub Stats
 ![Samia's Stats](https://github-readme-stats.vercel.app/api?username=TechnicalSamia18&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechnicalSamia18&layout=compact&theme=tokyonight)
 
 ---
 
